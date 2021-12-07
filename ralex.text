@@ -1,0 +1,84 @@
+D:\anaconda\envs\tensorflow\python.exe D:/pytest/Dogs-Cats-master/tensor_new_res_alex.py
+计算流图已经搭建.
+step:100,train_loss:2.4994,train_acc:0.77,train_acc_mean:0.6689
+[Test ] step:100,val_loss:1.0104,val_acc:0.84,val_acc_mean:0.84
+step:200,train_loss:0.30537,train_acc:0.88,train_acc_mean:0.7516
+[Test ] step:200,val_loss:0.27476,val_acc:0.92,val_acc_mean:0.92
+step:300,train_loss:0.13601,train_acc:0.93,train_acc_mean:0.8001
+[Test ] step:300,val_loss:0.27532,val_acc:0.89,val_acc_mean:0.89
+step:400,train_loss:0.13209,train_acc:0.94,train_acc_mean:0.8336
+[Test ] step:400,val_loss:0.23833,val_acc:0.92,val_acc_mean:0.92
+step:500,train_loss:0.064343,train_acc:0.99,train_acc_mean:0.8585
+[Test ] step:500,val_loss:0.22741,val_acc:0.92,val_acc_mean:0.92
+step:600,train_loss:0.014618,train_acc:1.0,train_acc_mean:0.87733
+[Test ] step:600,val_loss:0.41553,val_acc:0.89,val_acc_mean:0.89
+step:700,train_loss:0.026083,train_acc:0.99,train_acc_mean:0.89263
+[Test ] step:700,val_loss:0.2825,val_acc:0.94,val_acc_mean:0.94
+step:800,train_loss:0.037801,train_acc:0.99,train_acc_mean:0.9047
+[Test ] step:800,val_loss:0.092312,val_acc:0.98,val_acc_mean:0.98
+step:900,train_loss:0.010573,train_acc:1.0,train_acc_mean:0.91454
+[Test ] step:900,val_loss:0.27977,val_acc:0.94,val_acc_mean:0.94
+step:1000,train_loss:0.0037089,train_acc:1.0,train_acc_mean:0.9227
+[Test ] step:1000,val_loss:0.27161,val_acc:0.93,val_acc_mean:0.93
+step:1100,train_loss:0.0067737,train_acc:1.0,train_acc_mean:0.92928
+[Test ] step:1100,val_loss:0.65112,val_acc:0.88,val_acc_mean:0.88
+step:1200,train_loss:0.0079215,train_acc:1.0,train_acc_mean:0.93499
+[Test ] step:1200,val_loss:0.22052,val_acc:0.91,val_acc_mean:0.91
+step:1300,train_loss:0.0040658,train_acc:1.0,train_acc_mean:0.93961
+[Test ] step:1300,val_loss:0.32245,val_acc:0.92,val_acc_mean:0.92
+step:1400,train_loss:0.0083941,train_acc:1.0,train_acc_mean:0.94381
+[Test ] step:1400,val_loss:0.2028,val_acc:0.96,val_acc_mean:0.96
+step:1500,train_loss:0.0063708,train_acc:1.0,train_acc_mean:0.94749
+[Test ] step:1500,val_loss:0.21044,val_acc:0.93,val_acc_mean:0.93
+step:1600,train_loss:0.032839,train_acc:0.99,train_acc_mean:0.95001
+[Test ] step:1600,val_loss:0.24568,val_acc:0.93,val_acc_mean:0.93
+step:1700,train_loss:0.011957,train_acc:1.0,train_acc_mean:0.95246
+[Test ] step:1700,val_loss:0.26224,val_acc:0.9,val_acc_mean:0.9
+step:1800,train_loss:0.0071306,train_acc:1.0,train_acc_mean:0.95479
+[Test ] step:1800,val_loss:0.35629,val_acc:0.9,val_acc_mean:0.9
+step:1900,train_loss:0.0013931,train_acc:1.0,train_acc_mean:0.95697
+[Test ] step:1900,val_loss:0.28799,val_acc:0.92,val_acc_mean:0.92
+step:2000,train_loss:0.00061046,train_acc:1.0,train_acc_mean:0.95906
+[Test ] step:2000,val_loss:0.18093,val_acc:0.94,val_acc_mean:0.94
+step:2100,train_loss:0.00023999,train_acc:1.0,train_acc_mean:0.96083
+[Test ] step:2100,val_loss:0.36128,val_acc:0.92,val_acc_mean:0.92
+step:2200,train_loss:0.059758,train_acc:0.99,train_acc_mean:0.96246
+[Test ] step:2200,val_loss:0.10589,val_acc:0.96,val_acc_mean:0.96
+step:2300,train_loss:0.00033639,train_acc:1.0,train_acc_mean:0.96402
+[Test ] step:2300,val_loss:0.41628,val_acc:0.93,val_acc_mean:0.93
+step:2400,train_loss:0.00088207,train_acc:1.0,train_acc_mean:0.96546
+[Test ] step:2400,val_loss:0.32675,val_acc:0.92,val_acc_mean:0.92
+step:2500,train_loss:0.0019406,train_acc:1.0,train_acc_mean:0.96669
+[Test ] step:2500,val_loss:0.37619,val_acc:0.91,val_acc_mean:0.91
+step:2600,train_loss:0.010549,train_acc:0.99,train_acc_mean:0.96787
+[Test ] step:2600,val_loss:0.53595,val_acc:0.87,val_acc_mean:0.87
+step:2700,train_loss:0.00063778,train_acc:1.0,train_acc_mean:0.96898
+[Test ] step:2700,val_loss:0.41906,val_acc:0.93,val_acc_mean:0.93
+step:2800,train_loss:0.00084762,train_acc:1.0,train_acc_mean:0.97
+[Test ] step:2800,val_loss:0.65809,val_acc:0.89,val_acc_mean:0.89
+step:2900,train_loss:0.00243,train_acc:1.0,train_acc_mean:0.97092
+[Test ] step:2900,val_loss:0.36999,val_acc:0.92,val_acc_mean:0.92
+step:3000,train_loss:0.0075382,train_acc:1.0,train_acc_mean:0.97177
+[Test ] step:3000,val_loss:0.61556,val_acc:0.9,val_acc_mean:0.9
+step:3100,train_loss:0.00014256,train_acc:1.0,train_acc_mean:0.97259
+[Test ] step:3100,val_loss:0.38281,val_acc:0.94,val_acc_mean:0.94
+step:3200,train_loss:9.3704e-05,train_acc:1.0,train_acc_mean:0.97342
+[Test ] step:3200,val_loss:0.32679,val_acc:0.93,val_acc_mean:0.93
+step:3300,train_loss:1.0357e-05,train_acc:1.0,train_acc_mean:0.9742
+[Test ] step:3300,val_loss:0.24242,val_acc:0.93,val_acc_mean:0.93
+step:3400,train_loss:0.0065477,train_acc:1.0,train_acc_mean:0.97489
+[Test ] step:3400,val_loss:0.17903,val_acc:0.94,val_acc_mean:0.94
+step:3500,train_loss:0.017039,train_acc:0.99,train_acc_mean:0.97542
+[Test ] step:3500,val_loss:0.33807,val_acc:0.9,val_acc_mean:0.9
+step:3600,train_loss:0.0024844,train_acc:1.0,train_acc_mean:0.97591
+[Test ] step:3600,val_loss:0.70444,val_acc:0.9,val_acc_mean:0.9
+step:3700,train_loss:0.00086275,train_acc:1.0,train_acc_mean:0.97644
+[Test ] step:3700,val_loss:0.061647,val_acc:0.97,val_acc_mean:0.97
+step:3800,train_loss:0.00099812,train_acc:1.0,train_acc_mean:0.97706
+[Test ] step:3800,val_loss:0.41042,val_acc:0.92,val_acc_mean:0.92
+step:3900,train_loss:0.00011749,train_acc:1.0,train_acc_mean:0.97764
+[Test ] step:3900,val_loss:0.22509,val_acc:0.94,val_acc_mean:0.94
+step:4000,train_loss:0.0002155,train_acc:1.0,train_acc_mean:0.97819
+[Test ] step:4000,val_loss:0.34486,val_acc:0.94,val_acc_mean:0.94
+
+Process finished with exit code 0
